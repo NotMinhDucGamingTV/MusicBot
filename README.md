@@ -50,10 +50,6 @@ JMusicBot supports all sources and formats supported by [lavaplayer](https://git
     Your folder should look similar to this (on desktop):
     View
 
-Note
-
-The above image is Windows, but it should look similar on all platforms
-
 Warning
 
 Do not put this in the Downloads or Desktop. Use a folder within Documents
@@ -64,8 +60,6 @@ Do not put this in the Downloads or Desktop. Use a folder within Documents
     token = MJHJkljflksdjfCoolTokenDudeILikeItkasdk
     owner = 113156185389092864
     prefix = "!"
-
-Example
 
 You can also copy & paste a template from the Example Config
 4️⃣ Run JMusicBot#
