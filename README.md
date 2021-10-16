@@ -1,19 +1,8 @@
 <img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
 
-# JMusicBot
-
-[![Downloads](https://img.shields.io/github/downloads/1stminhcar/MusicBot/total.svg)](https://github.com/1stminhcar/MusicBot/releases/latest)
-[![Stars](https://img.shields.io/github/stars/1stminhcar/MusicBot.svg)](https://github.com/1stminhcar/MusicBot/stargazers)
-[![Release](https://img.shields.io/github/release/1stminhcar/MusicBot.svg)](https://github.com/1stminhcar/MusicBot/releases/latest)
-[![License](https://img.shields.io/github/license/1stminhcar/MusicBot.svg)](https://github.com/1stminhcar/MusicBot/blob/master/LICENSE)
-[![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://discord.gg/0p9LSGoRLu6Pet0k)<br>
-[![CircleCI](https://img.shields.io/circleci/project/github/1stminhcar/MusicBot/master.svg)](https://circleci.com/gh/1stminhcar/MusicBot)
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)](https://ci.appveyor.com/project/jagrosh/musicbot/branch/master)
-[![CodeFactor](https://www.codefactor.io/repository/github/jagrosh/musicbot/badge)](https://www.codefactor.io/repository/github/jagrosh/musicbot)
+# MusicBot
 
 A cross-platform Discord music bot with a clean interface, and that is easy to set up and run yourself!
-
-[![Setup](http://i.imgur.com/VvXYp5j.png)](https://jmusicbot.com/setup)
 
 ## Features
   * Easy to run (just make sure Java is installed, and run!)
